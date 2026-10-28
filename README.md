@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Zeyad Faraa
 
-<!--
-**ZeyadFaraa91000/ZeyadFaraa91000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student interested in Linux, networking, and information security.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Linux fundamentals and command-line tools
+- Computer networking
+- Cybersecurity fundamentals
+- C, Python, and debugging basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hands-on Practice
+I document my learning process through practical labs, notes, and small projects in controlled environments.
+
+## Goals
+- Build practical cybersecurity skills
+- Improve my Linux and networking knowledge
+- Create clear, well-documented technical projects
+
+---
+*Learning step by step. Practicing responsibly.*
